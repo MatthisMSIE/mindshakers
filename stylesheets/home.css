@@ -28,3 +28,7 @@ body {
 	width: 400px;
 	margin: auto;	
 }
+
+#mc_embed_signup input {
+  margin: auto;
+}
