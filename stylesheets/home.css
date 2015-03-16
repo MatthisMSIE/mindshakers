@@ -1,0 +1,25 @@
+@import url("banner.css");
+@import url("footer.css");
+
+body {
+  font-family: 'Kabel', sans-serif;
+  color: #3264FF;
+}
+.card{
+  padding: 10px;
+  font-weight: 300;
+}
+.card h2{
+  font-size: 20px;
+}
+.blue-bg {
+  background: #3264FF;
+  color: rgb(175,175,175);
+  padding-top: 40px;
+  padding-bottom: 60px;
+}
+
+.row{
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
